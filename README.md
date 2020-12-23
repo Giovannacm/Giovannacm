@@ -1,9 +1,7 @@
 ### Hi there 👋
 My name is Giovanna Marinho, i'm a Computer Science student at São Paulo State University. During my graduation, i've been developing undergraduate research projects (funded by CNPq and FAPESP) in the areas of Digital Image Processing, Mathematical Morphology, Computer Vision, Anomaly Detection and Machine Learning. Finaly, in addition to the areas mentioned above, i'm interested in Data Science.
 
-<p align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovannacm&theme=buefy)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Giovannacm&theme=buefy&show_icons=true)
-
+<p>
+<a href="https://www.linkedin.com/in/daniloeler" rel="nofollow"><img src="https://camo.githubusercontent.com/60ec0bca947af8f161908736d36b6fb87564a740668dcbc7f1dd8e0823c25648/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f64616e696c6f656c6572" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/giovanna-carreira-marinho-b49030170/" style="max-width:100%;"></a>
+<a href="http://lattes.cnpq.br/0840226903480590" rel="nofollow"><img src="https://camo.githubusercontent.com/4b25d42215a1de7eae3a3e5c40e585c9a40ec56cd79a11a8bd7a5cd7259d27f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c61747465732d626c75653f6c696e6b3d687474703a2f2f6c61747465732e636e70712e62722f30383430323236393033343830353930" alt="Lattes Badge" data-canonical-src="https://img.shields.io/badge/Lattes-blue?link=http://lattes.cnpq.br/3261077745815886" style="max-width:100%;"></a>
 </p>
