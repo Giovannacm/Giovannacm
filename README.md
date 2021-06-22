@@ -7,5 +7,3 @@ My name is Giovanna Marinho, i'm a Computer Science student at São Paulo State 
 [![Lattes Badge](https://img.shields.io/badge/Lattes-blue?link=http://lattes.cnpq.br/3261077745815886)](http://lattes.cnpq.br/3261077745815886)
 
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovannacm&theme=flag-india)
