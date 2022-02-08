@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Giovanna Marinho, i'm a Computer Science student at São Paulo State University. During my graduation, i've been developing undergraduate research projects (funded by CNPq and FAPESP) in the areas of Digital Image Processing, Mathematical Morphology, Computer Vision, Anomaly Detection and Machine Learning. Finaly, in addition to the areas mentioned above, i'm interested in Data Science.
+My name is Giovanna Marinho, i'm an Entry Level Software Developer at Philips, on work time, and Computer Science student at São Paulo State University (UNESP), on remaining time. During my graduation, i developed undergraduate research projects (funded by CNPq and FAPESP) in the areas of Digital Image Processing, Mathematical Morphology, Computer Vision, Anomaly Detection and Machine Learning.
 
 <p>
   
