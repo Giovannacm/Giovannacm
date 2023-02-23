@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Giovanna Marinho, i'm an Entry Level Software Developer at Philips, on work time, and Master Degree student (in Computer Science) at São Paulo State University (UNESP), on remaining time. During my graduation, i developed undergraduate research projects (funded by CNPq and FAPESP) in the areas of Digital Image Processing, Mathematical Morphology, Computer Vision, Anomaly Detection and Machine Learning.
+My name is Giovanna Marinho, I'm an Entry Level Software Developer at Philips, on work time, and master's degree student (in Computer Science) at São Paulo State University (UNESP), on remaining time. During my graduation, I developed undergraduate research projects (funded by CNPq and FAPESP - Brazilian research funding agencies) in the areas of Digital Image Processing, Mathematical Morphology, Computer Vision, Anomaly Detection and Machine Learning. In the master's degree program, I have been studding Dimensionality Reduction concepts applied in Remote Sensing images.
 
 <p>
   
